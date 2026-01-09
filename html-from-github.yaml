@@ -8,7 +8,7 @@ Parameters:
 
   GitRepo:
     Type: String
-    Description: Public GitHub repo URL (e.g. https://github.com/shafficmuza/repo.git)
+    Description: Public GitHub repo URL (e.g. https://github.com/shafficmuza/imam/repo.git)
 
   GitFolder:
     Type: String
